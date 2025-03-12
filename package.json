@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lagsaa.github.io/todo-app/",
+  "homepage": "https://ariell174.github.io/todo-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
